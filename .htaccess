@@ -1,0 +1,8 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/swastikclasses/api.swastikclasses.com/start-backend"
+PassengerBaseURI "/start-backend"
+PassengerNodejs "/home/swastikclasses/nodevenv/api.swastikclasses.com/start-backend/16/bin/node"
+PassengerAppType node
+PassengerStartupFile app.js
+PassengerAppLogFile "/home/swastikclasses/api.swastikclasses.com-start-backend.log"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
